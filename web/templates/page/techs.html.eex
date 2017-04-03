@@ -1,0 +1,12 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to my %{name}", name: "website!" %></h2>
+  <p class="lead">Soon you will be able to learn<br />about my skills and abilites.</p>
+</div>
+
+<ul>
+  <li>Scala</li>
+    <li>Elixir</li>
+      <li>C</li>
+        <li>Socket Programming</li>
+          <li>ZeroMQ</li>
+</ul>

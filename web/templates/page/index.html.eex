@@ -1,6 +1,6 @@
 <div class="jumbotron">
   <h2><%= gettext "Welcome to my %{name}", name: "website!" %></h2>
-  <p class="lead">Soon you will be able to learn<br />about my skills and abilites.</p>
+  <p class="lead">Soon you will be able to learn<br />about my <a href="/techs">skills</a> and abilites.</p>
 </div>
 
 <!-- <div class="row marketing">
